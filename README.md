@@ -1,7 +1,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/VERSÃO-1.0.0-green">
 <img src="https://img.shields.io/badge/Licença-GNU 3.0-success">
-<img src="https://img.shields.io/badge/PHP-GasparimSat-blue">
 <img src="https://img.shields.io/badge/PHP-Adianti-blue">
 </p>
 
