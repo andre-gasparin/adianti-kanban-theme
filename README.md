@@ -1,13 +1,4 @@
 <p align="center">
-  <a href="https://sistemas.gasparimsat.com.br" target="_blank" rel="noopener">
-    <img src="http://sistemas.gasparimsat.com.br/images/logo-cidadedigital-topo.png"> 
-  </a>
-</p>
-
-
-Tema alternativo ao Kanban do Framework Adianti criado por <a href="https://sistemas.gasparimsat.com.br" target="_blank" rel="noopener">Gasparimsat.com.br</a> :+1:.
-
-<p align="center">
 <img src="https://img.shields.io/badge/VERSÃO-1.0.0-green">
 <img src="https://img.shields.io/badge/Licença-GNU 3.0-success">
 <img src="https://img.shields.io/badge/PHP-GasparimSat-blue">
@@ -38,6 +29,3 @@ class KanbanDatabaseView extends TPage
         parent::__construct();
         parent::include_css("app/resources/css/kanban.css");
 ```
-## Imagens do projeto
-
-<img src="http://sistemas.gasparimsat.com.br/images/adianti-kanban.jpg"> 
